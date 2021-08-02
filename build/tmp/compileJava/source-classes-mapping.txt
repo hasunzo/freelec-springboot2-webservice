@@ -1,7 +1,7 @@
 com/jojoldu/book/springboot/config/auth/SecurityConfig.java
  com.jojoldu.book.springboot.config.auth.SecurityConfig
-com/jojoldu/book/springboot/domain/user/Role.java
- com.jojoldu.book.springboot.domain.user.Role
+com/jojoldu/book/springboot/Application.java
+ com.jojoldu.book.springboot.Application
 com/jojoldu/book/springboot/config/auth/CustomOAuth2UserService.java
  com.jojoldu.book.springboot.config.auth.CustomOAuth2UserService
 com/jojoldu/book/springboot/web/dto/PostsUpdateRequestDto.java
@@ -39,6 +39,8 @@ com/jojoldu/book/springboot/web/dto/PostsListResponseDto.java
  com.jojoldu.book.springboot.web.dto.PostsListResponseDto
 com/jojoldu/book/springboot/config/auth/LoginUser.java
  com.jojoldu.book.springboot.config.auth.LoginUser
+com/jojoldu/book/springboot/config/JpaConfig.java
+ com.jojoldu.book.springboot.config.JpaConfig
 com/jojoldu/book/springboot/domain/posts/Posts.java
  com.jojoldu.book.springboot.domain.posts.Posts
  com.jojoldu.book.springboot.domain.posts.Posts$PostsBuilder
@@ -47,7 +49,5 @@ com/jojoldu/book/springboot/web/HelloController.java
 com/jojoldu/book/springboot/domain/user/User.java
  com.jojoldu.book.springboot.domain.user.User
  com.jojoldu.book.springboot.domain.user.User$UserBuilder
-com/jojoldu/book/springboot/Application.java
- com.jojoldu.book.springboot.Application
-com/jojoldu/book/springboot/config/JpaConfig.java
- com.jojoldu.book.springboot.config.JpaConfig
+com/jojoldu/book/springboot/domain/user/Role.java
+ com.jojoldu.book.springboot.domain.user.Role
