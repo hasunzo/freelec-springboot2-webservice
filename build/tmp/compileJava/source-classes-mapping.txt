@@ -53,3 +53,6 @@ com/jojoldu/book/springboot/domain/user/Role.java
  com.jojoldu.book.springboot.domain.user.Role
 com/jojoldu/book/springboot/config/auth/SecurityConfig.java
  com.jojoldu.book.springboot.config.auth.SecurityConfig
+com/jojoldu/book/springboot/domain/user/Member.java
+ com.jojoldu.book.springboot.domain.user.Member
+ com.jojoldu.book.springboot.domain.user.Member$MemberBuilder
